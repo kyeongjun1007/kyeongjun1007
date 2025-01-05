@@ -15,7 +15,8 @@ I aim to combine data analysis and AI modeling to create impactful storytelling.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-9E4D94?style=flat-square&logo=seaborn&logoColor=white))   
+![Seaborn](https://img.shields.io/badge/Seaborn-9E4D94?style=flat-square&logo=seaborn&logoColor=white))
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)  
 - (Experienced) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)   
 - (Studied) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)   
 #### Colaboration & Productivities
