@@ -1,5 +1,6 @@
 <a href="https://velog.io/@kyeongjun1007" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
 <a href="https://www.notion.so/kyongjun1007/CV-147893b535678003b276d1fb83f6f5aa?pvs=4"><img src="https://img.shields.io/badge/CV&Portfolio-black?style=plastic&logo=notion&logoColor=white"/></a>
+<a href="https://gauguinjun.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF6600?style=plastic&logo=Tistory&logoColor=white"/></a>
 
 👋 Hi there! I’m a master's graduate in Industrial Engineering from Hanyang University.  
 I specialize in **Time Series Anomaly Detection** and have a growing interest in LLMs and Computer Vision.
